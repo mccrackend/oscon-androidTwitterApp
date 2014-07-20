@@ -1,0 +1,24 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <!--Button
+        android:id="@+id/button"
+        android:layout_width="200dip"
+        android:layout_height="40dip"
+        android:text="@string/button_text" />
+
+    <TextView
+        android:id="@+id/label"
+        android:text="@string/hello_world"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textColor="#23a3b2"/ -->
+    <ListView
+        android:id="@+id/list"
+        android:layout_height="wrap_content"
+        android:layout_width="wrap_content"
+        />
+
+</LinearLayout>
