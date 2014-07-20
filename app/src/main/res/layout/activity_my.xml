@@ -15,6 +15,16 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:textColor="#23a3b2"/ -->
+    <EditText
+        android:id="@+id/query"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" />
+    <Button
+        android:id="@+id/search"
+        android:text="Search"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" />
+
     <ListView
         android:id="@+id/list"
         android:layout_height="wrap_content"

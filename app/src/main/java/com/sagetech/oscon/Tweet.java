@@ -5,4 +5,5 @@ package com.sagetech.oscon;
  */
 public class Tweet {
     String text;
+    User user;
 }
